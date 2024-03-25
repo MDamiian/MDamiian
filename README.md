@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @MDamiian
-- I'm currently studying informatics engineering at UdeG.
+- I'm currently studying software engineering at UdeG.
 - My contact email for any questions: osvaldo.damian72@gmail.com
